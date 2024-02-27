@@ -1,5 +1,7 @@
 import React from "react";
 
+/* hold */
+
 const Tags = ({ text, type }) => {
   const getStyle = () => {
     switch (type) {

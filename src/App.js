@@ -48,6 +48,7 @@ function App() {
                 {per.detail}
               </div>
             </div>
+            {/* hold */}
 
             <div className="flex flex-wrap items-center justify-around px-6 gap-3">
               {per.skills.map((skill, skillIndex) => (
